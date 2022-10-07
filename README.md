@@ -1,6 +1,6 @@
 ### HI GUYS <a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-purple?style=for-the-badge&logo=github" align="center"></a>
+<p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt">
 
-<p align="center"><img src=""alt="Bt">
 
 
 - 👋I'm Dhananjaya Max
