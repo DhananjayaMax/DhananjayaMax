@@ -38,7 +38,7 @@
 <a href="https://wa.me/741124978"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
 
-<a href="https://github.com/noob-hackers"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayaMax&layout=compact"></a>
+<a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayaMax&layout=compact"></a>
 
 </p>
 
