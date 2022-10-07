@@ -1,4 +1,6 @@
-### HI GUYS 😉
+### HI GUYS <a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-purple?style=for-the-badge&logo=github" align="center"></a>
+
+<img src ="istockphoto-1223049477-612x612.jpg" alt="Map" align="middle" border="3">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning PYTHON 
@@ -8,12 +10,7 @@
 - 📫 How to reach me: dhananjaya.github@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
->
-<a  href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-purple?style=for-the-badge&logo=github" align="center"></a>
-
-
   
-
 ### ✘ KNOW MORE ABOUT ME ✘
 
 <p align="center"><a href="https://github.com/DhananjayaMax"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
