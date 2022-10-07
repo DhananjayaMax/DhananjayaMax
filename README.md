@@ -21,7 +21,7 @@
 ### ✘ GITHUB STATUS ✘
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&icon_color=CE1D2D&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
 </p>
 
@@ -45,5 +45,4 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 </p>
-
 
