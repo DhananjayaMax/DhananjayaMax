@@ -24,7 +24,7 @@
 
 <a href="https://github.com/DhananjayaMax"><img title="YouTube" src="https://img.shields.io/badge/DHANANJAYA-MAX-brightgreen?style=for-the-badge&logo=github"></a>
 
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL DHANA BRO-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/channel/UCioeNZfbtidRMA-WETacaKQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL DHANA BRO-red?style=for-the-badge&logo=Youtube"></a>
 
 </p>
 <h3><i><font color="red">CONTACT ME 🤩</i></h3>
