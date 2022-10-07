@@ -3,7 +3,7 @@
 
 <hr style="height:2px;border-width:1;color:gray;background-color:gray">
 
-<p align="center"><a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-Dhananjaya-red?style=for-the-badge&logo=github" align="center"></a>
+<p align="center"><a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-DhananjayaMax-23ff8100?style=for-the-badge&logo=github" align="center"></a>
 <p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="150px" width="250px">
 
 
@@ -36,7 +36,7 @@
     <a href="https://wa.me/741124978"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-purple?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://www.t2ll.com/smsRedirect.aspx/?phoneNumber=741124978&msg=Hi"><img title="Telegram" src="https://img.shields.io/badge/TEXT MASSAGE -red?style=for-the-badge&logo=messenger"></a>
 <a href="mailto: dhananjaya.github@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/DhananjayaMax"><img title="YouTube" src="https://img.shields.io/badge/DHANANJAYA-MAX-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DhananjayaMax"><img title="YouTube" src="https://img.shields.io/badge/DHANANJAYA-MAX-black?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCioeNZfbtidRMA-WETacaKQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL DHANA BRO-red?style=for-the-badge&logo=Youtube"></a>
 
 <p align="center">
@@ -45,4 +45,7 @@
 <a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayaMax&layout=compact"></a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+</p>
+<p align="center">
+<a href="https://github.com/DhananjayaMax?tab=followers"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
