@@ -1,6 +1,7 @@
 ### HI GUYS <a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-purple?style=for-the-badge&logo=github" align="center"></a>
 
-<img src ="istockphoto-1223049477-612x612.jpg" alt="Map" align="middle" border="3">
+<p align="center"><img src=""alt="Bt">
+
 
 - 👋I'm Dhananjaya Max
 - 🔭 I’m currently working on ...
@@ -14,7 +15,7 @@
   
 ### ✘ KNOW MORE ABOUT ME ✘
 
-<p align="center"><a href="https://github.com/DhananjayaMax"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
 </p>
 
