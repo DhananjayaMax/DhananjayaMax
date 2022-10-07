@@ -1,6 +1,7 @@
-### ✘ HI GUYS ✘
+### ✘ HI GUYS ✘ &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="24px" width="24px">
+
 <p align="center"><a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-purple?style=for-the-badge&logo=github" align="center"></a>
-<p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt">
+<p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="150px" width="250px">
 
 
 
