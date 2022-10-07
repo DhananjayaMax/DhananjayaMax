@@ -3,7 +3,7 @@
 
 <hr style="height:1px;border-width:1;color:gray;background-color:gray">
 
-<p align="center"><a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-DhananjayaMax-purple?style=for-the-badge&logo=github" align="center"></a>
+<p align="center"><a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-Dhananjaya-red?style=for-the-badge&logo=github" align="center"></a>
 <p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="150px" width="250px">
 
 
@@ -33,8 +33,8 @@
 <h3><i><font color="red">CONTACT ME 🤩</i></h3>
 <p align="center">
 
-<a href="https://msng.link/o/?sl-dhana-bro=tg"><img title="Telegram" src="https://img.shields.io/badge/Telegram-brightred?style=for-the-badge&logo=Telegram"></a>
-    <a href="https://wa.me/741124978"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://msng.link/o/?sl-dhana-bro=tg"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://wa.me/741124978"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-purple?style=for-the-badge&logo=whatsapp"></a>
 <a href="dhananjaya.github@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/DhananjayaMax"><img title="YouTube" src="https://img.shields.io/badge/DHANANJAYA-MAX-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCioeNZfbtidRMA-WETacaKQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL DHANA BRO-red?style=for-the-badge&logo=Youtube"></a>
