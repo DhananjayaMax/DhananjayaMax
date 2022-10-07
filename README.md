@@ -1,7 +1,7 @@
 
 ## HI GUYS 👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="22px" width="22px"> &nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="24px" width="30px">
 
-<hr style="height:1px;border-width:1;color:gray;background-color:gray">
+<hr style="height:2px;border-width:1;color:gray;background-color:gray">
 
 <p align="center"><a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-Dhananjaya-red?style=for-the-badge&logo=github" align="center"></a>
 <p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="150px" width="250px">
@@ -10,15 +10,14 @@
 <hr style="height:2px;border-width:0;color:red;background-color:red">
 
 
-- 👋I'm Dhananjaya Max
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: dhananjaya.github@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+- 👋I'm *Dhananjaya* Max
+- 😁 My age is : 17 
+- 🔭 I’m still student 
+- 💖 My Hoby is Cording
+- 🔥 I'm currently learning python 
+- ✊ I’m always help everyone
+- 💬 Ask me anything 
+
 ### ✘ GITHUB STATUS ✘
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -46,6 +45,3 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 </p>
-
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://youtu.be/C6wxjYpZU3U)
-<a href = "mailto: dhananjaya.github@gmail.com">Send Email</a>
