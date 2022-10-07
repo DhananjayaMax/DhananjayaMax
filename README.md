@@ -1,4 +1,5 @@
-### HI GUYS <a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-purple?style=for-the-badge&logo=github" align="center"></a>
+### ✘ HI GUYS ✘
+<p align="center"><a  href="https://github.com/DhananjayaMax"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-purple?style=for-the-badge&logo=github" align="center"></a>
 <p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt">
 
 
@@ -29,10 +30,9 @@
 <h3><i><font color="red">CONTACT ME 🤩</i></h3>
 <p align="center">
 
-<a href="https://msng.link/o/?sl-dhana-bro=tg"><img title="Telegram" src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=Telegram"></a>
+<a href="https://msng.link/o/?sl-dhana-bro=tg"><img title="Telegram" src="https://img.shields.io/badge/Telegram-brightred?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://wa.me/741124978"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-
 <p align="center">
 
 <a href="https://github.com/noob-hackers"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayaMax&layout=compact"></a>
