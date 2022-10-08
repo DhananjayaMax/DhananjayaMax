@@ -11,7 +11,7 @@
 
 
 - 👋I'm *Dhananjaya* Max
-- 😁 My age is : 17 
+- ☝ My age is : 17 
 - 🔭 I’m still student 
 - 💖 My Hoby is Cording
 - 🔥 I'm currently learning python,java,html
@@ -38,7 +38,7 @@
 
 <a href="https://msng.link/o/?sl-dhana-bro=tg"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
     <a href="https://wa.me/741124978"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-purple?style=for-the-badge&logo=whatsapp"></a>
-<a href="mailto:741124978"><img title="Telegram" src="https://img.shields.io/badge/TEXT MASSAGE -red?style=for-the-badge&logo=messenger"></a>
+<a href="https://www.t2ll.com/smsRedirect.aspx/?phoneNumber=741124978&msg=Hello"><img title="Telegram" src="https://img.shields.io/badge/TEXT MASSAGE -red?style=for-the-badge&logo=messenger"></a>
 <a href="mailto: dhananjaya.github@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/DhananjayaMax"><img title="YouTube" src="https://img.shields.io/badge/DHANANJAYA-MAX-black?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCioeNZfbtidRMA-WETacaKQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL DHANA BRO-red?style=for-the-badge&logo=Youtube"></a>
@@ -53,4 +53,3 @@
 <p align="center">
 <a href="https://github.com/DhananjayaMax?tab=followers"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
-<a href="sms:+94741124978">Send Us a Text</a>
