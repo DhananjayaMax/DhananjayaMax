@@ -14,9 +14,13 @@
 - 😁 My age is : 17 
 - 🔭 I’m still student 
 - 💖 My Hoby is Cording
-- 🔥 I'm currently learning python 
+- 🔥 I'm currently learning python,java,html
 - ✊ I’m always help everyone
-- 💬 Ask me anything 
+- 💬 Ask me anything
+ 
+### NOTE ! 👇
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
 ### ✘ GITHUB STATUS ✘
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
