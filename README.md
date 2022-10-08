@@ -53,3 +53,4 @@
 <p align="center">
 <a href="https://github.com/DhananjayaMax?tab=followers"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
+<a href="sms:+94741124978">Send Us a Text</a>
