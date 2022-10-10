@@ -57,7 +57,7 @@
 </details>
 
 <details>
-  <summary> REPOSITY 👇 </summary>
+  <summary> REPOSITORIES 👇 </summary>
 
 <a href="https://github.com/DhananjayaMax/Shere-Market"><img title="SHERE-MARKET" src="https://github-readme-stats.vercel.app/api/pin/?username=DhananjayaMax&repo=Shere-Market&theme=vision-friendly-dark"></a>
 
