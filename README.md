@@ -9,15 +9,16 @@
 
 <hr style="height:2px;border-width:0;color:red;background-color:red">
 
+### About Me
 
-- 👋I'm *Dhananjaya* Max
-- ☝ My age is : 17 
+- 👋 I'm *Dhananjaya* Max.
+- ☝ I'm 17 Years Old.
 - 🔭 I’m still student 
 - 💖 My Hoby is Cording
-- 🔥 I'm currently learning python,java,html
-- ✊ I’m always help everyone
-- 💬 Ask me anything
- 
+- 🔥 I'm currently learning python.
+- ✊ I’m always help everyone.
+- 💬 Ask me anything.
+
 ### NOTE ! 👇
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
@@ -33,7 +34,8 @@
 - [![GitHub followers](https://img.shields.io/github/followers/DhananjayaMax.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DhananjayaMax?tab=followers)
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<h3><i><font color="red">CONTACT ME 🤩</i></h3>
+<details>
+<summary> CONTACT ME 🤩</summary>
 <p align="center">
 
 <a href="#"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
@@ -42,7 +44,7 @@
 <a href="mailto: dhananjaya.github@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/DhananjayaMax"><img title="YouTube" src="https://img.shields.io/badge/DHANANJAYA-MAX-black?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCioeNZfbtidRMA-WETacaKQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL DHANA BRO-red?style=for-the-badge&logo=Youtube"></a>
-
+</details>
 <p align="center">
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -58,6 +60,7 @@
 
 <details>
   <summary> REPOSITORIES 👇 </summary>
+
 
 <a href="https://github.com/DhananjayaMax/Shere-Market"><img title="SHERE-MARKET" src="https://github-readme-stats.vercel.app/api/pin/?username=DhananjayaMax&repo=Shere-Market&theme=vision-friendly-dark"></a>
 
