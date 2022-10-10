@@ -4,7 +4,7 @@
 <hr style="height:2px;border-width:1;color:gray;background-color:gray">
 
 <p align="center"><a  href="https://github.com/DhananjayaMax?tab=repositories"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-DhananjayaMax-23ff8100?style=for-the-badge&logo=github" align="center"></a>
-<p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="150px" width="250px">
+<p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="175px" width="300px">
 
 
 <hr style="height:2px;border-width:0;color:red;background-color:red">
@@ -52,16 +52,14 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 </p>
-<p align="center">
-<a href="https://github.com/DhananjayaMax?tab=followers"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-
 </details>
 
 <details>
   <summary> REPOSITORIES 👇 </summary>
-
-
+<hr>
+<p align="center">
+<a href="https://github.com/DhananjayaMax?tab=followers"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
 <a href="https://github.com/DhananjayaMax/Shere-Market"><img title="SHERE-MARKET" src="https://github-readme-stats.vercel.app/api/pin/?username=DhananjayaMax&repo=Shere-Market&theme=vision-friendly-dark"></a>
 
 </details>
