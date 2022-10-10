@@ -1,5 +1,5 @@
 
-## HI GUYS 👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="22px" width="22px"> &nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="24px" width="30px">
+## ☬ HI GUYS 👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="22px" width="22px"> &nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="24px" width="30px">
 
 <hr style="height:2px;border-width:1;color:gray;background-color:gray">
 
@@ -9,7 +9,7 @@
 
 <hr style="height:2px;border-width:0;color:red;background-color:red">
 
-### About Me
+### 💫 ABOUT ME 
 
 - 👋 I'm *Dhananjaya* Max.
 - ☝ I'm 17 Years Old.
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary> REPOSITORIES 👇 </summary>
+  <summary> REPOSITORIES ⚔️ </summary>
 <hr>
 <p align="center">
 <a href="https://github.com/DhananjayaMax?tab=followers"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
