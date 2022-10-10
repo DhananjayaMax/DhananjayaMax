@@ -26,7 +26,7 @@
 ### ✘ GITHUB STATUS ✘
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&icon_color=CE1D2D&title_color=FF00FF&text_color=00FF00&border_color=0000FF&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&icon_color=03E3FC&title_color=FD1C03&text_color=00FF00&border_color=FF5F1F&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200&border_radius=15"></a>
 
 </p>
 
@@ -48,7 +48,7 @@
 <p align="center">
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayaMax&layout=compact"></a>
+<a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayaMax&layout=compact&theme=algolia&border_radius=15"></a>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 </p>
