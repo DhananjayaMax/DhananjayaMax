@@ -35,7 +35,7 @@
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <details>
-<summary> CONTACT ME 🤩</summary>
+<summary><b> CONTACT ME 🤩</b></summary>
 <p align="center">
 
 <a href="#"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary> REPOSITORIES ⚔️ </summary>
+  <summary><i> REPOSITORIES ⚔️</i> </summary>
 <hr>
 <p align="center">
 <a href="https://github.com/DhananjayaMax?tab=followers"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
