@@ -26,7 +26,7 @@
 ### ✘ GITHUB STATUS ✘
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&icon_color=03E3FC&title_color=FD1C03&text_color=00FF00&border_color=FFFFF&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200&border_radius=15"></a>
+<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&icon_color=FF6700&title_color=FD1C03&text_color=00FF00&border_color=FFFFF&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200&border_radius=15"></a>
 
 </p>
 
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary><i> REPOSITORIES ⚔️</i> </summary>
+  <summary><i><b><u>⚡ REPOSITORIES ⚡</u></b></i> </summary>
 <hr>
 <p align="center">
 <a href="https://github.com/DhananjayaMax?tab=followers"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
