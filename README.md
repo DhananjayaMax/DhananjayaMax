@@ -19,7 +19,7 @@
 - ✊ I’m always help everyone.
 - 💬 Ask me anything.
 
-### NOTE ! 👇
+### SOMETHING TO KNOW...🖋️
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
@@ -35,12 +35,12 @@
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <details>
-<summary><b> CONTACT ME 🤩</b></summary>
+<summary><b>  CONTACT ME ☎️ </b></summary>
 <p align="center">
 
 <a href="#"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
-    <a href="mailto: dhananjaya.github@gmail.com"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-purple?style=for-the-badge&logo=whatsapp"></a>
-<a href="#"><img title="Telegram" src="https://img.shields.io/badge/TEXT MASSAGE -red?style=for-the-badge&logo=messenger"></a>
+<a href="mailto: dhananjaya.github@gmail.com"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-purple?style=for-the-badge&logo=whatsapp"></a>
+<a  href="#"><img title="Telegram" src="https://img.shields.io/badge/TEXT MASSAGE -red?style=for-the-badge&logo=messenger&align=center"></a>
 <a href="mailto: dhananjaya.github@gmail.com"><img title="Email" src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/DhananjayaMax"><img title="YouTube" src="https://img.shields.io/badge/DHANANJAYA-MAX-black?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCioeNZfbtidRMA-WETacaKQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL DHANA BRO-red?style=for-the-badge&logo=Youtube"></a>
