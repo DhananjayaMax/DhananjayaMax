@@ -29,8 +29,11 @@
 ### ✘ GITHUB STATUS ✘
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&icon_color=FF6700&title_color=FD1C03&text_color=00FF00&border_color=FFFFF&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200&border_radius=15"></a>
+<p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&icon_color=FF6700&title_color=FD1C03&text_color=00FF00&border_color=FFFFF&include_all_commits=true&theme=algolia&cache_seconds=3200&border_radius=15"></a>
 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DhananjayaMax&theme=algolia&border_radius=16&text_color=FD1C03)](https://github.com/DhananjayaMax)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DhananjayaMax&bg_color=020033&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=false&border_color=FF00BF&title_color=FD1C03)  
 </p>
 
 - ![Profile views ](https://gpvc.arturio.dev/DhananjayaMax)
@@ -67,4 +70,4 @@
 
 </details>
 
-<img src = "InShot_20221011_173801308.gif" width = 300px height=30px>
+
