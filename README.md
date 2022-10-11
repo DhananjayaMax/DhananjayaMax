@@ -1,8 +1,10 @@
 
 ## ☬ HI GUYS 👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="22px" width="22px"> &nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="24px" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=16E2F5&size=50&center=true&vCenter=true&width=905&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Dhananjaya.;I+Am+a+JavaScript+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/DhananjayaMax)
-<hr style="height:2px;border-width:1;color:gray;background-color:gray">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasy&color=FF6700&size=55&center=true&vCenter=true&width=905&height=100&lines=WELL+COME+TO+GITHUB+🇱🇰;MY+NAME+IS+DHANANJAYA.;I'M+JAVASCRIPT+DEVOLOPER..;NICE+TO+MEET+YOU+%F0%9F%98%84...)](https://github.com/DhananjayaMax)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <p align="center"><a  href="https://github.com/DhananjayaMax?tab=repositories"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-DhananjayaMax-23ff8100?style=for-the-badge&logo=github" align="center"></a>
 <p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="175px" width="300px">
