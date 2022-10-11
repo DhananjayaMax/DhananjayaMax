@@ -1,5 +1,5 @@
 
-##  HELLO_EVERYONE &nbsp;<img  align="" alt="Coding" width="24" height="35" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">&nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="35px" width="40px">
+##  HÊLLØ ÊVERĪØNE &nbsp;<img  align="" alt="Coding" width="24" height="35" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">&nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="35px" width="40px">
 
 <p align="center"><a  href="https://github.com/DhananjayaMax?tab=repositories"><img title="GITHUB" src="https://img.shields.io/badge/WELL COME TO GITHUB-DhananjayaMax-23ff8100?style=for-the-badge&logo=github" align="center"></a>
 (〠)
@@ -73,4 +73,4 @@
 </details>
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=9BE2FF&amp;size=22&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cursive&amp;color=9BE2FF&amp;size=32&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...;" style="width: 100%;">
