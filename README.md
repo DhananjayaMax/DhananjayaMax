@@ -1,14 +1,14 @@
 
-## ☬ HI GUYS 👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="22px" width="22px"> &nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="24px" width="30px">
+##  HELLO_EVERYONE &nbsp;<img  align="" alt="Coding" width="24" height="35" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">&nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="35px" width="40px">
 
+<p align="center"><a  href="https://github.com/DhananjayaMax?tab=repositories"><img title="GITHUB" src="https://img.shields.io/badge/WELL COME TO GITHUB-DhananjayaMax-23ff8100?style=for-the-badge&logo=github" align="center"></a>
+(〠)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasy&color=FF6700&size=55&center=true&vCenter=true&width=905&height=100&lines=WELL+COME+TO+GITHUB+🇱🇰;MY+NAME+IS+DHANANJAYA.;I'M+JAVASCRIPT+DEVOLOPER..;NICE+TO+MEET+YOU+%F0%9F%98%84...)](https://github.com/DhananjayaMax)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasy&color=9BE2FF&size=51&center=true&vCenter=true&width=950&height=105&lines=WELL+COME+TO+GITHUB;MY+NAME+IS+DHANANJAYA..;I+'M+CURRENTLY+LEARNING+PYTHON...;NICE+TO+MEET+YOU+...💫)](https://github.com/DhananjayaMax)
+<img src="giphy.gif" height="36px" width="100%">
 
-<p align="center"><a  href="https://github.com/DhananjayaMax?tab=repositories"><img title="Instagram" src="https://img.shields.io/badge/WELL COME TO GITHUB-DhananjayaMax-23ff8100?style=for-the-badge&logo=github" align="center"></a>
 <p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="175px" width="300px">
-
 
 <hr style="height:2px;border-width:0;color:red;background-color:red">
 
@@ -24,16 +24,18 @@
 
 ### SOMETHING TO KNOW...🖋️
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=algolia&animation=default&layout=default&font=Fantasy)
 
 ### ✘ GITHUB STATUS ✘
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
+<hr>
 <p align="center"><a href="https://github.com/DhananjayaMax"><img title="DhananjayaMax" src="https://github-readme-stats.vercel.app/api?username=DhananjayaMax&show_icons=true&icon_color=FF6700&title_color=FD1C03&text_color=00FF00&border_color=FFFFF&include_all_commits=true&theme=algolia&cache_seconds=3200&border_radius=15"></a>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=DhananjayaMax&theme=algolia&border_radius=16&text_color=FD1C03)](https://github.com/DhananjayaMax)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DhananjayaMax&theme=algolia&border_radius=16&text_color=FD1C03)](https://github.com/DhananjayaMax) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DhananjayaMax&bg_color=020033&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=false&border_color=FF00BF&title_color=FD1C03)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DhananjayaMax&bg_color=020033&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=false&border_color=FF00BF&title_color=FD1C03) 
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </p>
 
 - ![Profile views ](https://gpvc.arturio.dev/DhananjayaMax)
@@ -41,7 +43,7 @@
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <details>
-<summary><b>  CONTACT ME ☎️ </b></summary>
+<summary><b> ⚡ CONTACT ME ⚡</b></summary>
 <p align="center">
 
 <a href="#"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
@@ -70,4 +72,5 @@
 
 </details>
 
-
+<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=9BE2FF&amp;size=22&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...;" style="width: 100%;">
