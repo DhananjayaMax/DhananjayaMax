@@ -1,8 +1,7 @@
-
 ##  HÊLLØ ÊVERĪØNE &nbsp;<img  align="" alt="Coding" width="24" height="35" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">&nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="35px" width="40px">
 
-<p align="center"><a  href="https://github.com/DhananjayaMax?tab=repositories"><img title="GITHUB" src="https://img.shields.io/badge/WELL COME TO GITHUB-DhananjayaMax-23ff8100?style=for-the-badge&logo=github" align="center"></a>
-(〠)
+<a href="https://github.com/DhananjayaMax?tab=followers"><img title="Wellcome" src="https://img.shields.io/badge/WELLCOME%20TO%20GITHUB-Dhananjaya_Max-SCRIPT?colorA=e80000&colorB=FAFA0B&colorC=71ff00&style=for-the-badge&logo=github"></a>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasy&color=9BE2FF&size=51&center=true&vCenter=true&width=950&height=105&lines=WELL+COME+TO+GITHUB;MY+NAME+IS+DHANANJAYA..;I+'M+CURRENTLY+LEARNING+PYTHON...;NICE+TO+MEET+YOU+...💫)](https://github.com/DhananjayaMax)
