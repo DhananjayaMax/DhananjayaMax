@@ -70,6 +70,7 @@
 <a href="https://github.com/DhananjayaMax/Shere-Market"><img title="SHERE-MARKET" src="https://github-readme-stats.vercel.app/api/pin/?username=DhananjayaMax&repo=Shere-Market&theme=vision-friendly-dark"></a>
 
 </details>
+<p align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Bt"height="175px" width="300px">
 
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?font=Cursive&amp;color=9BE2FF&amp;size=32&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...;" style="width: 100%;">
